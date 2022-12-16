@@ -187,6 +187,11 @@ body {
   margin: 1rem 0;
 }
 
+.cards article h4:hover {
+  color: hsl(35, 77%, 62%);
+  cursor: pointer;
+}
+
 @media (min-width: 768px) {
   .cards {
     display: grid;
