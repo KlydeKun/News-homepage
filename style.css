@@ -188,7 +188,7 @@ body {
 }
 
 .cards article h4:hover {
-  color: hsl(35, 77%, 62%);
+  color: hsl(5, 85%, 63%);
   cursor: pointer;
 }
 
